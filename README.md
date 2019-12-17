@@ -12,6 +12,6 @@ This will ask for new app name and it will create all the necessary folder struc
 
 After creation of a new and before switching between apps, execute the following command
 
-```yarn bootstrap -- --appName=<app name>
+```yarn bootstrap -- --appName=<app name>```
 
 This will take care of installing the necessary node modules and linking your dependencies.
